@@ -1,9 +1,11 @@
 # Weather App
-![Screenshot 2024-03-06 183958](https://github.com/VimukthiniAttanayaka/weather-app-react/assets/73266263/f695786a-f3a1-49d8-a962-30b288042c71)
-![Screenshot 2024-03-06 183901](https://github.com/VimukthiniAttanayaka/weather-app-react/assets/73266263/89194f1c-6b69-436e-9aba-56e201f6bce1)
 
 This is a simple weather app built using React, Bootstrap for styling, and Firebase for hosting. It retrieves weather data from the OpenWeatherMap API and displays it in a user-friendly manner.
 check this out yourself :- https://weather-c06c8.firebaseapp.com/
+
+![Screenshot 2024-03-06 183958](https://github.com/VimukthiniAttanayaka/weather-app-react/assets/73266263/42acc22f-908d-4c50-abd4-015b885cdffb)
+![Screenshot 2024-03-06 183901](https://github.com/VimukthiniAttanayaka/weather-app-react/assets/73266263/4cd8326c-44f4-4525-833e-3f6e98ea1b5f)
+
 ## Features:
 
 Fetches weather data based on latitude and longitude coordinates (provided in the code).
