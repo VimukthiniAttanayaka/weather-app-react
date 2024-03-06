@@ -1,3 +1,23 @@
+.weather-app {
+  background-image: linear-gradient(to bottom, #0c3862, #6076be);
+  height: 100vh;
+}
+#lat {
+  border: 2px solid #866e4e;
+}
+#lon {
+  border: 2px solid #866e4e;
+}
+.hr{
+  height: 2px;;
+  color: yellow;
+}
+.lb{
+  border-right: 1px solid white;
+}
+.colour-white{
+  color: white;
+}
 .App {
   text-align: center;
 }
